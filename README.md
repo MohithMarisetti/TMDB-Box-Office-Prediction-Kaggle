@@ -4,6 +4,8 @@ In a world… where movies made an estimated $41.7 billion in 2018, the film ind
 
 In this competition, you're presented with metadata on over 7,000 past films from The Movie Database to try and predict their overall worldwide box office revenue. Data points provided include cast, crew, plot keywords, budget, posters, release dates, languages, production companies, and countries. You can collect other publicly available data to use in your model predictions, but in the spirit of this competition, use only data that would have been available before a movie's release.
 
+The data for this project can be downloaded from this link: https://www.kaggle.com/c/tmdb-box-office-prediction/data
+
 Steps to execute:
 
 1. First, Run a jupyter notebook server ($ jupyter notebook).
@@ -29,8 +31,7 @@ Contents of the project are :-
 12.SVMRegressor_Basic.ipynb
 13.preprocessed_test_data.csv
 14.preprocessed_train_data.csv
-15.test.csv
-16.train.csv
+
 
 Important Note:
 The accuracy may vary since the code uses GridSearch.
